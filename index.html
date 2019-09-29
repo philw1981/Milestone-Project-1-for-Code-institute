@@ -37,19 +37,26 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav ml-auto">
-          <a href="#home" class="nav-link">Home</a>
+          <a data-smooth="#home" href="#home-section" class="nav-link">Home</a>
         </li>
 
         <li class="nav-item">
-          <a href="#about" class="nav-link">About</a>
+          <a data-smooth="#about" href="#about-section" class="nav-link">About</a>
         </li>
 
         <li class="nav-item">
-          <a href="#weddings" class="nav-link">Weddings</a>
+          <a data-smooth="#weddings" href="#weddings-section" class="nav-link">Weddings</a>
+          <li class="nav-item">
+
+            <a data-smooth="#commercial" href="#commercial-section" class="nav-link">Commercial & Events</a>
+          </li>
+          <li class="nav-item">
+            <a data-smooth="#portraits" href="#portraits-section" class="nav-link">Portraits</a>
+          </li>
         </li>
 
         <li class="nav-item">
-          <a href="#contact" class="nav-link">Contact</a>
+          <a data-smooth="#contact" href="#contact-section" class="nav-link">Contact</a>
         </li>
       </ul>
       
@@ -58,6 +65,7 @@
     </nav>
 
 <!--Home Section-->
+<section>
 <header id="home-section">
       <div class="home-inner container">
         <div class="row">
@@ -67,20 +75,91 @@
           <div class="col-lg-8">
             <h1 class="display-1" style="color: aliceblue">Sammy Whitby Photography, Your Day, Your Way</h1> 
           <h1 >
-            
             </div>
                           </div>
                           </div>
                           </div>
                         </div>
                   
-
           </div>
-
-
-
-
 </header>
+</section>
+<!--Carousel-->
+<section id="showcase">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item carousel-image-1 active">
+          <div class="container">
+            <div class="carousel-caption d-none d-sm-block text-right mb-5">
+              <h1 class="display-3">Heading One</h1>
+              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam vel ullam deleniti reiciendis ratione
+                quod aliquid inventore vero perspiciatis.</p>
+              <a href="#" class="btn btn-danger btn-lg">Sign Up Now</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item carousel-image-2">
+          <div class="container">
+            <div class="carousel-caption d-none d-sm-block mb-5">
+              <h1 class="display-3">Heading Two</h1>
+              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam vel ullam deleniti reiciendis ratione
+                quod aliquid inventore vero perspiciatis.</p>
+              <a href="#" class="btn btn-primary btn-lg">Learn More</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="carousel-item carousel-image-3">
+          <div class="container">
+            <div class="carousel-caption d-none d-sm-block text-right mb-5">
+              <h1 class="display-3">Heading Three</h1>
+              <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste, aperiam vel ullam deleniti reiciendis ratione
+                quod aliquid inventore vero perspiciatis.</p>
+              <a href="#" class="btn btn-success btn-lg">Learn More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <a href="#myCarousel" data-slide="prev" class="carousel-control-prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+
+      <a href="#myCarousel" data-slide="next" class="carousel-control-next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+    </div>
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+<!--About header-->
+<section id="about-section" class="bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col text-center py-5">
+          <h1 class="display-4">Sammy</h1>
+          <p class="lead">text here.</p>
+        </div>
+      </div>
+    </div>
+    </section>
+
+
 
 
 <!--About Section-->
@@ -93,8 +172,11 @@
 
               Have a look around and find out all about me, have a look at some of my work and read more about my wedding photography package here.
               
-              My style is natural, modern and informal photography that reflects who you are as a couple, telling the story of your Event/day as it unfolds. I love my work as a lancashire photographer and would love to be a part of your special day.</p>
-          <a href="#contact" class="btn btn-outline-secondary">Find Out More</a>
+              My style is natural, modern and informal photography that reflects who you are as a couple, telling the story of your Event/day as it unfolds. I love my work as a lancashire photographer and would love to be a part of your special day.
+            
+              I would love to hear more about your you are after, so please get in touch via the contact form.
+            </p>
+          <a href="#contact" class="btn btn-outline-secondary">Contact</a>
         </div>
       </div>
     </div>
@@ -102,22 +184,23 @@
 
 
 <!-- Weddings HEAD -->
-<section id="wedding-section" class="bg-light">
+<section id="weddings-section" class="bg-light">
     <div class="container">
       <div class="row">
         <div class="col text-center py-5">
           <h1 class="display-4">Weddings</h1>
           <p class="lead">text here.</p>
-          
         </div>
       </div>
     </div>
     </section>
+
+    
 <!--Wedding Section-->
-<section id="wedding-section" class="py-5">
+<section id="weddings-section" class="py-5">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 order-2">
+        <div class="col-md-6">
           <img src="img/band-blur-close-up-265730.jpg" alt="" class="img-fluid mb-3 rounded-circle">
         </div>
         <div class="col-md-6 order-1">
@@ -146,7 +229,7 @@
       <div class="row">
         <div class="col text-center py-5">
           <h1 class="display-4">Commercial & Events</h1>
-          <p class="lead">text here.</p>
+          <p class="lead">Most businesses can benefit from professional photography. I can travel to you and shoot your premises or products on site, setting up a studio or working around your employees/customers to capture your business.</p>
           
         </div>
       </div>
@@ -158,7 +241,7 @@
         <div class="container">
           <div class="row">
             <div class="col-md-6 order-2">
-              <img src="img/advertising-black-and-white-brand-1498929.jpg" alt="" class="img-fluid mb-3 rounded-circle">
+              <img src="img/beautiful-brand-close-up-1268511.jpg" alt="" class="img-fluid mb-3 rounded-circle">
             </div>
             <div class="col-md-6 order-1">
               <h3>Commercial & Events</h3>
@@ -168,10 +251,10 @@
                 </div>
                 <div class="p-4 align-self-end">
                     <h3>text here</h3>
-                    <i class="fas fa-check"></i>On Location.<br>
-                    <i class="fas fa-check"></i>Documentray of thw Full day.<br>
-                    <i class="fas fa-check"></i>Photots proived on USB <br>
-                    <i class="fas fa-check"></i>Bride and Groom along with Pre Wedding Shoot.<br>
+                    <i class="fas fa-check"></i>I shoot to agreed brief.<br>
+                    <i class="fas fa-check"></i>Liaising with your marketing departments where necessary.<br>
+                    <i class="fas fa-check"></i>Off or on-site <br>
+                    <i class="fas fa-check"></i>With a full range of commercial services available, including editorial, product and event photography.<br>
                 </div>
               </div>
     </div>
@@ -183,7 +266,7 @@
         <div class="row">
           <div class="col text-center py-5">
             <h1 class="display-4">Portraits</h1>
-            <p class="lead">text here.</p>
+            <p class="lead">My flexible portrait photography can at the convenience of your home or elsewhere, in the Lancaster, Morecambe, Carnforth, Garstang and Preston area.</p>
             
           </div>
         </div>
@@ -193,7 +276,7 @@
   <section id="portraits-section" class="py-5">
       <div class="container">
         <div class="row">
-          <div class="col-md-6 order-2">
+          <div class="col-md-6 order-1">
             <img src="img/action-camera-canon-1144699.jpg" alt="" class="img-fluid mb-3 rounded-circle">
           </div>
           <div class="col-md-6 order-1">
@@ -204,10 +287,10 @@
               </div>
               <div class="p-4 align-self-end">
                   <h3>text here</h3>
-                  <i class="fas fa-check"></i>On Location.<br>
-                  <i class="fas fa-check"></i>Documentray of thw Full day.<br>
-                  <i class="fas fa-check"></i>Photots proived on USB <br>
-                  <i class="fas fa-check"></i>Bride and Groom along with Pre Wedding Shoot.<br>
+                  <i class="fas fa-check"></i>You choose the location. A beauty spot,that means something to you, you choose!.<br>
+                  <i class="fas fa-check"></i>.<br>
+                  <i class="fas fa-check"></i>Photots proived on USB or online.<br>
+                  <i class="fas fa-check"></i>Price includes travel expenses within 50 miles of Bolton-Le-Sands Lancs.<br>
               </div>
             </div>
   </div>
@@ -226,8 +309,7 @@
 
 
 
-
-
+  
     <!--JS from Boostrap 4-->
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"

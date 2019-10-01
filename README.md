@@ -37,3 +37,5 @@ A Photography Website for a new buisness
 ## Media
 
 ## Acknowledgements
+
+The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).

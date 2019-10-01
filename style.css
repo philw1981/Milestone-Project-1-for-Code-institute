@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #home-section {
   background: url(/img/buildings-clouds-dawn-594226.jpg);
   background-repeat: no-repeat;

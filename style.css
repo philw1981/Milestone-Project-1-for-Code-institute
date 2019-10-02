@@ -25,18 +25,3 @@ html {
 .carousel-item {
   height: 700px;
 }
-
-.carousel-image-1 {
-  background: url('/img/adult-beach-casual-736716.jpg');
-  background-size: auto;
-}
-
-.carousel-image-2 {
-  background: url('/img/advertising-black-and-white-brand-1498929.jpg');
-  background-size: auto;
-}
-
-.carousel-image-3 {
-  background: url('../img/image3.jpg');
-  background-size: auto;
-}

@@ -6,6 +6,8 @@ The content of this Website is for educational purposes only.
 
 A Photography Website for a new buisness
 
+A live demo can be found at GitHub here https://philw1981.github.io/
+
 ## UX
 
 The aim of this project was to create a fictional photographer website with the long term aim of it developing into a actual website for my wife's part time photography business. With this project I was able to apply a layout and style that we could use as a draft for what we though would or would not work. The project was developed to see if the three main services that my wife offers would work well from one site & one scrolling page , one site with multiple pages or if three separate sites would work best.

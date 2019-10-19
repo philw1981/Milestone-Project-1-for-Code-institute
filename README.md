@@ -4,7 +4,7 @@ The content of this Website is for educational purposes only.
 
 # Milestone Project 1 for Code institute
 
-A Photography Website for a new buisness
+A Photography Website for a new business.
 
 A live demo can be found at GitHub here https://philw1981.github.io/
 
@@ -14,11 +14,21 @@ The aim of this project was to create a fictional photographer website with the 
 
 I went with creating one site, one page scrolling split into section's and then one page for the gallery. The colours are very light and minimal with an aim of having plenty of space for photos to show to the users of the site. Right now all photos are from Pexels as due to time and this being a project only build. The design and colours have been inspired by local and popular photography sites in the area that would be the competition.
 
-The idea was to mention key information with a good selection of phtots to show the flexibility of the photographer. The site has two parts that the user can then use to contact the photographer.
+The idea was to mention key information with a good selection of photos to show the flexibility of the photographer. The site has two parts that the user can then use to contact the photographer.
 
 ## Wire frame's
 
 - Balsamiq was used to design the initial layout (these can be used via the wireframes folder). The idea was to keep the layout simple and consistent. As I started to work on the website the actual design changed as I felt I needed to add in features such as the carousel & lightbox to really highlight the photos for the website as this is the purpose for the user.
+
+## User Stories
+
+- As a new visitor to the website, I want to easily navigate the site.
+- As a new visitor to the website, I want learn more about the Photographer.
+- As a new visitor to the website, I want to look at their Photography skills.
+- As a new visitor to the website, I want view the Photographers gallery, and help me to decide if I want to contact them to provide a service.
+- As an interested client, I want to be able to make contact easily.
+- As an interested client, I want to be able to understand what services are on offer.
+- As an interested client, I want to know what geographical areas are covered in regards to the service.
 
 ## About
 
@@ -35,7 +45,7 @@ The idea was to mention key information with a good selection of phtots to show 
 
 ## Commercial
 
--This section is to show the user a selction of styles & services that can help bring to life a business brand,identity or vision.This section is to show the user how this service can help get the message across to the business's viewers.
+- This section is to show the user a selection of styles & services that can help bring to life a business brand,identity or vision. This section is to show the user how this service can help get the message across to the business's viewers.
 
 ## Portrait
 
@@ -43,7 +53,7 @@ The idea was to mention key information with a good selection of phtots to show 
 
 - Carousel
 
-To act as a eyecatching taster of the services offered to the user and to show relevant content or showcase professional photos and add as direct link to the gallery of choice by the user.
+To act as a eye-catching taster of the services offered to the user and to show relevant content or showcase professional photos and add as direct link to the gallery of choice by the user.
 
 - Pricing contact form
 
@@ -55,15 +65,19 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 ## Features to Implement in future
 
-- The use of more carousels and larger gallery sections would greatly increase the range of styles and skills the phtotgrapher can showcase to the user's
+- The use of more carousels and larger gallery sections would greatly increase the range of styles and skills the photographer can showcase to the user's
+
+- Forms and social media links to connect work as intended.
 
 - More links to the works of the photographer via social media and videos of photo-shoots taking place.
 
 - photographer's would have their own works on the site.
 
-- Reviews and testimonials would all help explain the quality and flexability of the services to the user.
+- Reviews and testimonials would all help explain the quality and flexibility of the services to the user.
 
 - The information regarding services needs to be a lot more detailed.
+
+- A geographical map feature to show in detail what travel distance the photographer will cover.
 
 - Going forward it might be best having the first page as an overall landing page and then the sections have a page each in much more detail.
 
@@ -74,6 +88,8 @@ This felt a key area as the website does not sell anything directly as a e-comme
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Bootstrap 4.0](https://getbootstrap.com/)
 - [Balsamiq](https://balsamiq.com)
+- [W3schools](https://www.w3schools.com/html/default.asp)
+- [Autoprefixer CSS](https://autoprefixer.github.io/)
 - [JQuery](https://jquery.com/)
 - [Git](https://git-scm.com/)
 - [FontAwesome](https://fontawesome.com/)
@@ -83,18 +99,18 @@ This felt a key area as the website does not sell anything directly as a e-comme
 ## Testing
 
 - Carousel
-  Dev Tools used to try and work out how best to the imges to a similar size and consistent without taking over the top part of the Website.
+  Dev Tools used to try and work out how best to the images to a similar size and consistent without taking over the top part of the Website.
 
 - Nav bar & menu in smaller device size
-  Wehn in Dev tools it did not seem to fit the screen 100% or avoid opverlap in difrent screen sizes, when I tested on actual devices this did not happen..
+  When in Dev tools it did not seem to fit the screen 100% or avoid overlap in different screen sizes, when I tested on actual devices this did not happen..
 
 - Gallery
-  Light box feature helped user experince avoiding back button in mobile screens to get back to the gallery, instead just tappiung below the image takes you back to the gallery page and also added the scroll fucntion back and fourth through the whole gallery for easy access to all images.
+  Light box feature helped user experience avoiding back button in mobile screens to get back to the gallery, instead just tapping below the image takes you back to the gallery page and also added the scroll function back and fourth through the whole gallery for easy access to all images.
 
-- Tested on mulitple browsers
+- Tested on muliple browsers
 - HTML Formatter
 - Validator W3
--
+- Autoprefixer
 
 ## Deployment
 

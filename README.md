@@ -35,11 +35,15 @@ The idea was to mention key information with a good selection of phtots to show 
 
 ## Commercial
 
+-This section is to show the user a selction of styles & services that can help bring to life a business brand,identity or vision.This section is to show the user how this service can help get the message across to the business's viewers.
+
 ## Portrait
 
 ## Features
 
 - Carousel
+
+To act as a eyecatching taster of the services offered to the user and to show relevant content or showcase professional photos and add as direct link to the gallery of choice by the user.
 
 - Pricing contact form
 
@@ -51,7 +55,17 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 ## Features to Implement in future
 
-It felt tricky having the three services on the website in terms of layout and colour scheme. Going forward it might be best having the sections on a page each. More links to the works of the photographer via social media, videos of photo-shoots taking place, reviews and testimonials would all help explain the services. Also due to time the photographer would have their own works on the site.
+- The use of more carousels and larger gallery sections would greatly increase the range of styles and skills the phtotgrapher can showcase to the user's
+
+- More links to the works of the photographer via social media and videos of photo-shoots taking place.
+
+- photographer's would have their own works on the site.
+
+- Reviews and testimonials would all help explain the quality and flexability of the services to the user.
+
+- The information regarding services needs to be a lot more detailed.
+
+- Going forward it might be best having the first page as an overall landing page and then the sections have a page each in much more detail.
 
 ## Technologies Used
 

@@ -27,11 +27,11 @@ The idea was to mention key information with a good selection of phtots to show 
 
 ## Carousel
 
--This was took from the bootstrap 4 libraries. It is directly beneath the about section so it can showcase the three key areas the photographer works in and has a link to the relevant gallery so the user can look at a wider range of the photographers works.
+- This was took from the bootstrap 4 libraries. It is directly beneath the about section so it can showcase the three key areas the photographer works in and has a link to the relevant gallery so the user can look at a wider range of the photographers works.
 
 ## Weddings
 
--This section was put in first of the three main services as it would be the main service provided by the photographer and also one of the top services user search for.
+- This section was put in first of the three main services as it would be the main service provided by the photographer and also one of the top services user search for.
 
 ## Commercial
 
@@ -39,11 +39,11 @@ The idea was to mention key information with a good selection of phtots to show 
 
 ## Features
 
--Carousel
+- Carousel
 
--Pricing contact form
+- Pricing contact form
 
--Gallery
+- Gallery
 
 ## Contact
 
@@ -68,14 +68,14 @@ It felt tricky having the three services on the website in terms of layout and c
 
 ## Testing
 
-\*Carousel
-Dev Tools used to try and work out how best to the imges to a similar size and consistent without taking over the top part of the Website.
+- Carousel
+  Dev Tools used to try and work out how best to the imges to a similar size and consistent without taking over the top part of the Website.
 
-\*Nav bar & menu in smaller device size
-Wehn in Dev tools it did not seem to fit the screen 100% or avoid opverlap in difrent screen sizes, when I tested on actual devices this did not happen..
+- Nav bar & menu in smaller device size
+  Wehn in Dev tools it did not seem to fit the screen 100% or avoid opverlap in difrent screen sizes, when I tested on actual devices this did not happen..
 
-\*Gallery
-Light box feature helped user experince avoiding back button in mobile screens to get back to the gallery, instead just tappiung below the image takes you back to the gallery page and also added the scroll fucntion back and fourth through the whole gallery for easy access to all images.
+- Gallery
+  Light box feature helped user experince avoiding back button in mobile screens to get back to the gallery, instead just tappiung below the image takes you back to the gallery page and also added the scroll fucntion back and fourth through the whole gallery for easy access to all images.
 
 - Tested on mulitple browsers
 - HTML Formatter
@@ -86,10 +86,10 @@ Light box feature helped user experince avoiding back button in mobile screens t
 
 ## Credits
 
--Research I looked at many websites for ideas and inspiration both local and nationally
--Author Chris Coyier smooth scrolling
--SimpleLightbox
--Free Code Camp
+- Research I looked at many websites for ideas and inspiration both local and nationally
+- Author Chris Coyier smooth scrolling
+- SimpleLightbox
+- Free Code Camp
 
 ## Content
 
@@ -97,5 +97,5 @@ Light box feature helped user experince avoiding back button in mobile screens t
 
 ## Acknowledgements
 
-*The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).
-*The simplelightbox function was provided by Lokesh Dhakar (https://lokeshdhakar.com/projects/lightbox2/)
+- The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).
+- The simplelightbox function was provided by Lokesh Dhakar (https://lokeshdhakar.com/projects/lightbox2/)

@@ -14,23 +14,24 @@ The aim of this project was to create a fictional photographer website with the 
 
 I went with creating one site, one page scrolling split into section's and then one page for the gallery. The colours are very light and minimal with an aim of having plenty of space for photos to show to the users of the site. Right now all photos are from Pexels as due to time and this being a project only build. The design and colours have been inspired by local and popular photography sites in the area that would be the competition.
 
-The idea was to mention key information with a good selection of phtots to show the flexability of the phtotgrapher. The site has two parts that the user can then use to contact the photographer.
+The idea was to mention key information with a good selection of phtots to show the flexibility of the photographer. The site has two parts that the user can then use to contact the photographer.
 
-## Wireframe's
+## Wire frame's
 
-- Balsamiq was used to design the inital layout (these can be used via the wireframs folder). The idea was to keep the layout simple and consistent. As I started to work on the website the actual dsign chganged as I felt I needed to add in features such as the carousel & lightbox to really highligh the photos for the website as this is th purpose for the user.
+- Balsamiq was used to design the initial layout (these can be used via the wireframes folder). The idea was to keep the layout simple and consistent. As I started to work on the website the actual design changed as I felt I needed to add in features such as the carousel & lightbox to really highlight the photos for the website as this is the purpose for the user.
 
 ## About
 
-- I decided this should be at the start opf the site but only a small section so that the user is introduced tpo the phtotgrapher and gets some key informtion such as services, style.
+- I decided this should be at the start of the site but only a small section so that the user is introduced t
+  o the photographer and gets some key information such as services, style.
 
 ## Carousel
 
--This was took from the boostrap 4 libries. It is directly beneth the about section so it can showcase the three key areas the photographer works in and has a link to the relevant gallery so the user can look at a wider range of the photographers works.
+-This was took from the bootstrap 4 libraries. It is directly beneath the about section so it can showcase the three key areas the photographer works in and has a link to the relevant gallery so the user can look at a wider range of the photographers works.
 
 ## Weddings
 
--This section was put in first of the three main services as it would be the mian service provided by the phtotgrapher and also one of the top services user serach for.
+-This section was put in first of the three main services as it would be the main service provided by the photographer and also one of the top services user search for.
 
 ## Commercial
 
@@ -40,51 +41,52 @@ The idea was to mention key information with a good selection of phtots to show 
 
 -Carousel
 
--Pricing conact form
+-Pricing contact form
 
 -Gallery
 
 ## Contact
 
-This felt a key area as the website doies not sell anything directly as a ecommerce siote would but its purpoise is top get the user and phttographer discussing the service on offer. So I decided to put a main contact form near the top and a smaller conatct button in the form of a modal took from boostrap in case people jump past the first part going to the relevant section.
+This felt a key area as the website does not sell anything directly as a e-commerce site would but its purpose is top get the user and photographer discussing the service on offer. So I decided to put a main contact form near the top and a smaller contact button in the form of a modal took from bootstrap in case people jump past the first part going to the relevant section.
 
 ## Features to Implement in future
 
-It felt tricky having the three services on the website in terms of layout and colour scheme. Going forward it might be best having the sections on a page each. More links to the works of th photograoher via social media,viedos of phtotshoots taking place, reviews and testimonals would all help explain the servies. Also due to time the phtotgrapher would have thier own works on the site
+It felt tricky having the three services on the website in terms of layout and colour scheme. Going forward it might be best having the sections on a page each. More links to the works of the photographer via social media, videos of photo-shoots taking place, reviews and testimonials would all help explain the services. Also due to time the photographer would have their own works on the site.
 
 ## Technologies Used
 
 - HTML.
 - CSS.
-- Visual Studio Code.
-- Boostrap.
-- Balsamiq
-- JS & JQuery.
-- Git.
-- Font Awesome.
-- Google Fonts.
-- Simple Lightbox.
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Bootstrap 4.0](https://getbootstrap.com/)
+- [Balsamiq](https://balsamiq.com)
+- [JQuery](https://jquery.com/)
+- [Git](https://git-scm.com/)
+- [FontAwesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 
 ## Testing
 
-- Carousel
+\*Carousel
+Dev Tools used to try and work out how best to the imges to a similar size and consistent without taking over the top part of the Website.
 
-- Nav bar & menu in smaller device size
+\*Nav bar & menu in smaller device size
+Wehn in Dev tools it did not seem to fit the screen 100% or avoid opverlap in difrent screen sizes, when I tested on actual devices this did not happen..
 
-- Gallery
+\*Gallery
+Light box feature helped user experince avoiding back button in mobile screens to get back to the gallery, instead just tappiung below the image takes you back to the gallery page and also added the scroll fucntion back and fourth through the whole gallery for easy access to all images.
 
-- Price & scheduling form
-
-* Pexels- all photos used in this came from this site.
-* HTML Formatter
-* Validator W3
-*
+- Tested on mulitple browsers
+- HTML Formatter
+- Validator W3
+-
 
 ## Deployment
 
 ## Credits
 
--Reserach I looked at many websites for ideas and insperation both local and nationaly
+-Research I looked at many websites for ideas and inspiration both local and nationally
 -Author Chris Coyier smooth scrolling
 -SimpleLightbox
 -Free Code Camp
@@ -95,4 +97,5 @@ It felt tricky having the three services on the website in terms of layout and c
 
 ## Acknowledgements
 
-The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).
+*The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).
+*The simplelightbox function was provided by Lokesh Dhakar (https://lokeshdhakar.com/projects/lightbox2/)

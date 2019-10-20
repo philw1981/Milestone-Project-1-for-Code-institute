@@ -49,6 +49,8 @@ The idea was to mention key information with a good selection of photos to show 
 
 ## Portrait
 
+-This section is used to highlight the diffrent types of portrait photogrphay availiablke to the user and to explain the serivecs on offer to potential clients.
+
 ## Features
 
 - Carousel
@@ -98,8 +100,11 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 ## Testing
 
+- Responsivness
+  Along side Dev tools and peoples actual devices I used this website to help keep my project mobile first.[Responsinator](https://www.responsinator.com/)
+
 - Carousel
-  Dev Tools used to try and work out how best to the images to a similar size and consistent without taking over the top part of the Website.
+  Dev Tools used to try and work out how best to get the images to a similar size and consistent without taking over the top part of the Website. The size of the carousel might have worled better with reduced height.
 
 - Nav bar & menu in smaller device size
   When in Dev tools it did not seem to fit the screen 100% or avoid overlap in different screen sizes, when I tested on actual devices this did not happen..
@@ -107,6 +112,12 @@ This felt a key area as the website does not sell anything directly as a e-comme
 - Gallery
   Light box feature helped user experience avoiding back button in mobile screens to get back to the gallery, instead just tapping below the image takes you back to the gallery page and also added the scroll function back and fourth through the whole gallery for easy access to all images.
 
+  - Feedback
+    I had a couple of people feedback the site could maybe do with a litle bit more colour. But overall the feedback on the theme and layout was positive. Everyone though the site was easy to use and navigate.
+
+# Through out the project I used the below regualry to troublwshoot and solve issues as I went along.
+
+- Dev Tools
 - Tested on muliple browsers
 - HTML Formatter
 - Validator W3
@@ -114,18 +125,29 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 ## Deployment
 
-## Credits
+I've deployed the site using GitHub Pages, and is available here:[https://github.com/philw1981/philw1981.github.io](https://github.com/philw1981/philw1981.github.io)
 
-- Research I looked at many websites for ideas and inspiration both local and nationally
+Through out I used git........I also used Github Desktop. I found when I had deployed my coide to github pages I had to go back and change the filepath for he images and simple lightbox to work as intended.
+
+## Credits & Content
+
+# Research I looked at many websites for ideas and inspiration both local and nationally- Two especially I would like to credit
+
+- [VisionPhotos](https://www.visionphotos.co.uk/)
+- [Delicious Phootography](https://www.deliciousphotography.co.uk/)
+
+# Code
+
 - Author Chris Coyier smooth scrolling
 - SimpleLightbox
-- Free Code Camp
-
-## Content
 
 ## Media
 
+- [Pexels](https://www.pexels.com/)
+
 ## Acknowledgements
+
+-Mentor Reuben Ferrante was very supportive and helpful throughout the whole project.
 
 - The Smooth Scrolling function (Author Chris Coyier) was found through this tutorial, it provids the CSS & Javascripit needed.(https://css-tricks.com/snippets/jquery/smooth-scrolling/).
 - The simplelightbox function was provided by Lokesh Dhakar (https://lokeshdhakar.com/projects/lightbox2/)

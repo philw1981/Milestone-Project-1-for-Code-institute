@@ -115,7 +115,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
   - Feedback
     I had a couple of people feedback the site could maybe do with a litle bit more colour. But overall the feedback on the theme and layout was positive. Everyone though the site was easy to use and navigate.
 
-# Through out the project I used the below regualry to troublwshoot and solve issues as I went along.
+- Through out the project I used the below regualry to troublwshoot and solve issues as I went along.
 
 - Dev Tools
 - Tested on muliple browsers
@@ -131,7 +131,7 @@ Through out I used git........I also used Github Desktop. I found when I had dep
 
 ## Credits & Content
 
-# Research I looked at many websites for ideas and inspiration both local and nationally- Two especially I would like to credit
+- Research I looked at many websites for ideas and inspiration both local and nationally- Two especially I would like to credit
 
 - [VisionPhotos](https://www.visionphotos.co.uk/)
 - [Delicious Phootography](https://www.deliciousphotography.co.uk/)

@@ -27,3 +27,18 @@ img:hover {
   -o-transition: 1s;
   transition: 1s;
 }
+
+
+
+/*to target carousel size*/
+
+.carousel-inner .carousel-item {
+  height: 500px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  object-fit: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/*to target carousel size*/

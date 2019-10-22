@@ -42,3 +42,11 @@ img:hover {
   background-repeat: no-repeat;
 }
 /*to target carousel size*/
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}

@@ -28,8 +28,16 @@ img:hover {
   transition: 1s;
 }
 
+#first-carousel {
+  background-image: url('assets/img/wedding/band-blur-close-up-265730.jpg');
+}
+#second-carousel {
+  background-image: url('assets/img/cafe-chair-commercial-establishment-776938.jpg');
+}
 
-
+#third-carousel {
+  background-image: url('assets/img/baby-child-family-2456327.jpg');
+}
 /*to target carousel size*/
 
 .carousel-inner .carousel-item {
@@ -48,4 +56,5 @@ img:hover {
   position: fixed;
   top: 0;
   width: 100%;
+  background-color: aliceblue;
 }

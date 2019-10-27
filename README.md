@@ -49,7 +49,7 @@ The idea was to mention key information with a good selection of photos to show 
 
 ## Portrait
 
--This section is used to highlight the diffrent types of portrait photogrphay availiable to the user and to explain the serivecs on offer to potential clients.
+-This section is used to highlight the different types of portrait photography available to the user and to explain the services on offer to potential clients.
 
 ## Features
 
@@ -104,7 +104,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
   Along side Dev tools and peoples actual devices I used this website to help keep my project mobile first.[Responsinator](https://www.responsinator.com/)
 
 - Carousel
-  Dev Tools used to try and work out how best to get the images to a similar size and consistent without taking over the top part of the Website. The size of the carousel might have worled better with reduced height.
+  Dev Tools used to try and work out how best to get the images to a similar size and consistent without taking over the top part of the Website.
 
 - Nav bar & menu in smaller device size
   When in Dev tools it did not seem to fit the screen 100% or avoid overlap in different screen sizes, when I tested on actual devices this did not happen..
@@ -115,10 +115,10 @@ This felt a key area as the website does not sell anything directly as a e-comme
   - Feedback
     I had a couple of people feedback the site could maybe do with a litle bit more colour. But overall the feedback on the theme and layout was positive. Everyone though the site was easy to use and navigate.
 
-## Through out the project I used the below regualry to troublwshoot and solve issues as I went along.
+Through out the project I used the below regularly to troubleshoot and solve issues as I went along..
 
 - Dev Tools
-- Tested on muliple browsers
+- Tested on multiple browsers
 - HTML Formatter
 - Validator W3
 - Autoprefixer
@@ -127,7 +127,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 I've deployed the site using GitHub Pages, and is available here:[https://github.com/philw1981/philw1981.github.io](https://github.com/philw1981/philw1981.github.io)
 
-Through out I used git........I also used Github Desktop. I found when I had deployed my coide to github pages I had to go back and change the filepath for he images and simple lightbox to work as intended.
+Through out I used git to push my code,I also used Github Desktop. I found when I had deployed my code to github pages I had to go back and change the file path for he images and simple lightbox to work as intended.
 
 ## Credits & Content
 
@@ -136,7 +136,7 @@ Through out I used git........I also used Github Desktop. I found when I had dep
 - [VisionPhotos](https://www.visionphotos.co.uk/)
 - [Delicious Phootography](https://www.deliciousphotography.co.uk/)
 
-# Code
+## Code
 
 - Author Chris Coyier smooth scrolling (https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 - SimpleLightbox [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)

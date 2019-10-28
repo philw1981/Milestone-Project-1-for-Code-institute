@@ -30,28 +30,28 @@ The idea was to mention key information with a good selection of photos to show 
 - As an interested client, I want to be able to understand what services are on offer.
 - As an interested client, I want to know what geographical areas are covered in regards to the service.
 
-## About
+### About
 
 - I decided this should be at the start of the site but only a small section so that the user is introduced t
   o the photographer and gets some key information such as services, style.
 
-## Carousel
+### Carousel
 
 - This was took from the bootstrap 4 libraries. It is directly beneath the about section so it can showcase the three key areas the photographer works in and has a link to the relevant gallery so the user can look at a wider range of the photographers works.
 
-## Weddings
+### Weddings
 
 - This section was put in first of the three main services as it would be the main service provided by the photographer and also one of the top services user search for.
 
-## Commercial
+### Commercial
 
 - This section is to show the user a selection of styles & services that can help bring to life a business brand,identity or vision. This section is to show the user how this service can help get the message across to the business's viewers.
 
-## Portrait
+### Portrait
 
 - This section is used to highlight the different types of portrait photography available to the user and to explain the services on offer to potential clients.
 
-## Features
+### Features
 
 - Carousel
 
@@ -61,11 +61,11 @@ To act as a eye-catching taster of the services offered to the user and to show 
 
 - Gallery
 
-## Contact
+### Contact
 
 This felt a key area as the website does not sell anything directly as a e-commerce site would but its purpose is top get the user and photographer discussing the service on offer. So I decided to put a main contact form near the top and a smaller contact button in the form of a modal took from bootstrap in case people jump past the first part going to the relevant section.
 
-## Features to Implement in future
+### Features to Implement in future
 
 - The use of more carousels and larger gallery sections would greatly increase the range of styles and skills the photographer can showcase to the user's
 
@@ -83,7 +83,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
 
 - Going forward it might be best having the first page as an overall landing page and then the sections have a page each in much more detail.
 
-## Technologies Used
+### Technologies Used
 
 - HTML.
 - CSS.
@@ -98,7 +98,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
 - [Google Fonts](https://fonts.google.com/)
 - [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 
-## Testing
+### Testing
 
 - Responsivness
   Along side Dev tools and peoples actual devices I used this website to help keep my project mobile first.[Responsinator](https://www.responsinator.com/)
@@ -123,7 +123,7 @@ Through out the project I used the below regularly to troubleshoot and solve iss
 - Validator W3
 - Autoprefixer
 
-## Deployment
+### Deployment
 
 I've deployed the site using GitHub Pages, and is available here:[https://github.com/philw1981/philw1981.github.io](https://github.com/philw1981/philw1981.github.io)
 
@@ -131,21 +131,23 @@ Through out I used git to push my code,I also used Github Desktop. I found when 
 
 ## Credits & Content
 
-## Research I looked at many websites for ideas and inspiration both local and nationally- Two especially I would like to credit
+### Research
+
+-I looked at many websites for ideas and inspiration both local and nationally- Two especially I would like to credit
 
 - [VisionPhotos](https://www.visionphotos.co.uk/)
 - [Delicious Phootography](https://www.deliciousphotography.co.uk/)
 
-## Code
+### Code
 
 - Author Chris Coyier smooth scrolling (https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 - SimpleLightbox [Lightbox](https://lokeshdhakar.com/projects/lightbox2/)
 
-## Media
+### Media
 
 - [Pexels](https://www.pexels.com/)
 
-## Acknowledgements
+### Acknowledgements
 
 -Mentor Reuben Ferrante was very supportive and helpful throughout the whole project.
 

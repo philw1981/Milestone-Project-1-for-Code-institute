@@ -49,7 +49,7 @@ The idea was to mention key information with a good selection of photos to show 
 
 ## Portrait
 
--This section is used to highlight the different types of portrait photography available to the user and to explain the services on offer to potential clients.
+- This section is used to highlight the different types of portrait photography available to the user and to explain the services on offer to potential clients.
 
 ## Features
 

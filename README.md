@@ -107,7 +107,7 @@ This felt a key area as the website does not sell anything directly as a e-comme
   Dev Tools used to try and work out how best to get the images to a similar size and consistent without taking over the top part of the Website.
 
 - Nav bar & menu in smaller device size
-  When in Dev tools it did not seem to fit the screen 100% or avoid overlap in different screen sizes, when I tested on actual devices this did not happen..
+  When in Dev tools it did not seem to fit the screen 100% or avoid overlap in different screen sizes, when I tested on actual devices this did not happen,This issues was later fixed with more testing, by commenting out css it was ound to be the sizing of the text in the header,this was then changed to EM.
 
 - Gallery
   Light box feature helped user experience avoiding back button in mobile screens to get back to the gallery, instead just tapping below the image takes you back to the gallery page and also added the scroll function back and fourth through the whole gallery for easy access to all images.

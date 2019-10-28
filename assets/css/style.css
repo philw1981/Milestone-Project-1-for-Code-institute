@@ -3,7 +3,7 @@ html {
 }
 
 #home-section {
-  background: url(assets/img/buildings-clouds-dawn-594226.jpg);
+  background: url(/assets/img/buildings-clouds-dawn-594226.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
